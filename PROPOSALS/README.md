@@ -81,18 +81,31 @@ NO:
 ABSTAIN:
 
 Result:
-Voting
+
+## Voting
+
 Voting should normally begin only after the proposal has been publicly discussed and sufficiently revised.
-The voting rules are defined in GOVERNANCE.md.
+
+The voting rules are defined in `GOVERNANCE.md`.
+
 The standard voting options are:
-YES — approve
-NO — reject
-ABSTAIN — no position
+
+- `YES` — approve
+- `NO` — reject
+- `ABSTAIN` — no position
+
 A vote does not automatically change the DSL specification.
+
 The final decision must be recorded and incorporated into the appropriate version of the specification.
-Important Rule
-A proposal is not part of the DSL specification merely because it exists in this directory.
+
+## Important Rule
+
+A proposal is **not part of the DSL specification merely because it exists in this directory**.
+
 Only proposals that successfully complete the defined review and decision process may become part of a future DSL specification.
-Transparency
+
+## Transparency
+
 Proposal discussions, decisions, and voting results should remain publicly traceable whenever technically possible.
+
 The purpose of this directory is to provide an open and auditable path for the evolution of DSL.
