@@ -48,7 +48,7 @@ The proposal system must prevent individual proposals from automatically becomin
 
 ## Discussion
 
-GitHub Issue: #NUMBER
+GitHub Issue: #1
 
 Discussion should take place publicly before voting begins.
 
